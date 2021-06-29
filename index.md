@@ -23,12 +23,11 @@ For any question considering any of these projects, please contact us at cn-ws@o
 
 ## Powered by
 
-![image](_static/png/DepartementOmgeving_logo.png)
+![Departement Omgeving](static/png/DepartementOmgeving_logo.png)
 
-![image](_static/png/KULeuven_logo.png)
+![KULeuven](static/png/KULeuven_logo.png)
 
-![image](_static/png/VMM_logo.png)
+![VMM](static/png/VMM_logo.png)
 
-![image](_static/png/fluves_logo.png)
-
+![Fluves](static/png/fluves_logo.png)
 
