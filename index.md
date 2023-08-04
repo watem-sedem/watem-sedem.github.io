@@ -7,7 +7,7 @@ Hi there! This website holds the documentation for CN-WS and related projects. T
 This project is the calculation engine of CN-WS: it contains all algorithms and formula's originally developed by KU Leuven in the Pascal programming language.
 
 - GitHub-page: [https://github.com/cn-ws/cn-ws](https://github.com/cn-ws/cn-ws)
-- Documentation: [https://docs.fluves.net/cn_ws/](https://docs.fluves.net/cn_ws/)
+- Documentation: [https://cn-ws.github.io/cn-ws/](https://cn-ws.github.io/cn-ws/)
 
 ## pycnws
 
