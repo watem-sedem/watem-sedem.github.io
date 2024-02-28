@@ -2,12 +2,12 @@
 
 Hi there! This website holds the documentation for CN-WS and related projects. The Curve-Number/WaTEM-SEDEM (or in short **CN-WS**) is a model used to estimate erosion, water run-off and overland sediment routing and transport to river. This page links to the several packages and codes used in the CN-WS project. The project is subdivided in a number of smaller projects. The are shortly introduced in the sections below. 
 
-## CN-WS
+## WaTEM/SEDEM
 
-This project is the calculation engine of CN-WS: it contains all algorithms and formula's originally developed by KU Leuven in the Pascal programming language.
+This project contains the WaTEM/SEDEM model itself: it contains all algorithms and formula's originally developed by KU Leuven in the Pascal programming language.
 
-- GitHub-page: [https://github.com/cn-ws/cn-ws](https://github.com/cn-ws/cn-ws)
-- Documentation: [https://cn-ws.github.io/cn-ws/](https://cn-ws.github.io/cn-ws/index.html)
+- GitHub-page: [https://github.com/cn-ws/watem-sedem](https://github.com/cn-ws/watem-sedem)
+- Documentation: [https://cn-ws.github.io/watem-sedem/](https://cn-ws.github.io/watem-sedem/index.html)
 
 ## pycnws
 
