@@ -1,3 +1,3 @@
-# cn-ws.github.io
+# watem-sedem.github.io
 
-This repo holds the code for the https://cn-ws.github.io website.
+This repo holds the code for the https://watem-sedem.github.io website.
