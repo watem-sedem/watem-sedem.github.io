@@ -1,6 +1,6 @@
-# Welcome to CN-WS
+# Welcome to WatEM/SEDEM
 
-Hi there! This website holds the documentation for CN-WS and related projects. The Curve-Number/WaTEM-SEDEM (or in short **CN-WS**) is a model used to estimate erosion, water run-off and overland sediment routing and transport to river. This page links to the several packages and codes used in the CN-WS project. The project is subdivided in a number of smaller projects. The are shortly introduced in the sections below. 
+Hi there! This website holds the documentation for WaTEM/SEDEM and related projects. The WaTEM-SEDEM (or in short **WS**) is a model used to estimate erosion and overland sediment routing and transport to river. This page links to the several packages and codes used in the project. The project is subdivided in a number of smaller projects. The are shortly introduced in the sections below. 
 
 ## WaTEM/SEDEM
 
@@ -8,6 +8,8 @@ This project contains the WaTEM/SEDEM model itself: it contains all algorithms a
 
 - GitHub-page: [https://github.com/watem-sedem/watem-sedem](https://github.com/watem-sedem/watem-sedem)
 - Documentation: [https://watem-sedem.github.io/watem-sedem/](https://watem-sedem.github.io/watem-sedem/index.html)
+
+Note that the model also includes an Curve Number (CN) extension to estimate run-off and sediment concentrations.
 
 ## pycnws
 
