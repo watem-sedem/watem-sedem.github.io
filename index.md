@@ -7,7 +7,7 @@ Hi there! This website holds the documentation for CN-WS and related projects. T
 This project contains the WaTEM/SEDEM model itself: it contains all algorithms and formula's originally developed by KU Leuven in the Pascal programming language.
 
 - GitHub-page: [https://github.com/watem-sedem/watem-sedem](https://github.com/watem-sedem/watem-sedem)
-- Documentation: [https://cn-ws.github.io/watem-sedem/](https://watem-sedem.github.io/watem-sedem/index.html)
+- Documentation: [https://watem-sedem.github.io/watem-sedem/](https://watem-sedem.github.io/watem-sedem/index.html)
 
 ## pycnws
 
