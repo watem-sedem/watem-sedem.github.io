@@ -1,4 +1,4 @@
-# Welcome to WatEM/SEDEM
+# Welcome to WaTEM/SEDEM
 
 Hi there! This website holds the documentation for WaTEM/SEDEM and related projects. The WaTEM-SEDEM (or in short **WS**) is a model used to estimate erosion and overland sediment routing and transport to river. This page links to the several packages and codes used in the project. The project is subdivided in a number of smaller projects. The are shortly introduced in the sections below. 
 
@@ -11,9 +11,13 @@ This project contains the WaTEM/SEDEM model itself: it contains all algorithms a
 
 Note that the model also includes an Curve Number (CN) extension to estimate run-off and sediment concentrations.
 
-## pycnws
+## pywatemsedem
 
-This project is used to standardize and automate data processing and data formatting for any catchment (applied in Flanders) for the CN-WS core code. The package makes use of [Python](https://www.python.org/) (via [conda](https://docs.conda.io/en/latest/index.html)), [SAGA-GIS](http://www.saga-gis.org/) and [GDAL](https://gdal.org/). The code and documentation for this project is currently under development.
+The pywatemsedem package is a Python wrapper for. WaTEM/SEDEM. The aim of the pywatemsedem package is to automate GIS IO processing, provide tooling to interact with WaTEM/SEDEM, and run WaTEM/SEDEM.
+
+The package is implemented in Python and best used with the tutorial notebooks available on this page.
+
+The package makes use of [Python](https://www.python.org/) (via [conda](https://docs.conda.io/en/latest/index.html)), [SAGA-GIS](http://www.saga-gis.org/) and [GDAL](https://gdal.org/). The code and documentation for this project is currently under development.
 
 ## R-factor
 
