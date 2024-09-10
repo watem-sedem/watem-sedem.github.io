@@ -13,7 +13,7 @@ Note that the model also includes an Curve Number (CN) extension to estimate run
 
 ## pywatemsedem
 
-The pywatemsedem package is a Python wrapper for. WaTEM/SEDEM. The aim of the pywatemsedem package is to automate GIS IO processing, provide tooling to interact with WaTEM/SEDEM, and run WaTEM/SEDEM.
+The pywatemsedem package is a Python wrapper for WaTEM/SEDEM. The aim of the pywatemsedem package is to automate GIS IO processing, provide tooling to interact with WaTEM/SEDEM, and run WaTEM/SEDEM.
 
 The package is implemented in Python and best used with the tutorial notebooks available on this page.
 
