@@ -1,4 +1,4 @@
-# Welcome to WatEM/SEDEM
+# Welcome to WaTEM/SEDEM
 
 Hi there! This website holds the documentation for WaTEM/SEDEM and related projects. The WaTEM-SEDEM (or in short **WS**) is a model used to estimate erosion and overland sediment routing and transport to river. This page links to the several packages and codes used in the project. The project is subdivided in a number of smaller projects. The are shortly introduced in the sections below. 
 
