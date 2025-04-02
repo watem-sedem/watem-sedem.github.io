@@ -41,5 +41,5 @@ For any question considering any of these projects, please contact us at cn-ws@o
 
 ![VMM](static/png/VMM_logo.png)
 
-![Fluves](static/svg/fluves_logo.png)
+![Fluves](static/svg/fluves_logo.svg)
 
