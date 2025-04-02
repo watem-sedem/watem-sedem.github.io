@@ -17,6 +17,9 @@ The pywatemsedem package is a Python wrapper for WaTEM/SEDEM. The aim of the pyw
 
 The package is implemented in Python and best used with the tutorial notebooks available on this page.
 
+- GitHub-page: [https://github.com/watem-sedem/pywatemsedem](https://github.com/watem-sedem/pywatemsedem)
+- Documentation: [https://watem-sedem.github.io/pywatemsedem/](https://watem-sedem.github.io/pywatemsedem/)
+
 The package makes use of [Python](https://www.python.org/) (via [conda](https://docs.conda.io/en/latest/index.html)), [SAGA-GIS](http://www.saga-gis.org/) and [GDAL](https://gdal.org/). The code and documentation for this project is currently under development.
 
 ## R-factor
