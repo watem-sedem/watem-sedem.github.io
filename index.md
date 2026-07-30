@@ -31,7 +31,7 @@ In this project, code is developed to compute the rainfall erosivity (R-factor).
 
 ## Contact
 
-For any question considering any of these projects, please contact us [here](watemsedem@omgeving.vlaanderen.be).
+For any question considering any of these projects, please contact us <watemsedem@omgeving.vlaanderen.be>.
 
 ## Powered by
 
